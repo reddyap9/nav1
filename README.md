@@ -1,3 +1,3 @@
 # nav1
-Thsi is my repsository
-this is my first commit
+#Thsi is my repsository.
+#this is my first commit.
